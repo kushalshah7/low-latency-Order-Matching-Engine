@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+frontend/build/
+frontend/node_modules/.cache/
+
+# C++ build artifacts
+*.o
+*.out
+OrderMatchingEngine/demo
+OrderMatchingEngine/test_engine
+
+# Local editor and OS files
+.DS_Store
+.vscode/
